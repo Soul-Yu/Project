@@ -2,7 +2,8 @@ package com.tedu;
 
 public class TestInfo {
 public static void main(String[] args) {
-	String nameString="Ğ¡Óñ";
-	System.err.println("¸ã¹íÅ¶");
+	String name="kingsoul";
+	System.err.println("æé¬¼å“¦");
+	System.out.println(name);
 }
 }
