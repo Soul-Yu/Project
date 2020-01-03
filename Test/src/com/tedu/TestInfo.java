@@ -6,5 +6,6 @@ public class TestInfo {
 		Integer age = 18;
 		String  properties="is my private";
 		System.out.println(name);
+		String sss="dsd";
 	}
 }
